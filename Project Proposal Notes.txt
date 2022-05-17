@@ -27,3 +27,6 @@ CRUD
 - Delete owner / pet (Mark "Active" / "Not active"?)
 
 --- Technologies Used ---
+Java Spring
+MySQL
+DigitalOcean
