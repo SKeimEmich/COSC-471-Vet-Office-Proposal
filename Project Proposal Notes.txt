@@ -1,0 +1,29 @@
+COSC 471 - Database Principles
+Project Proposal
+Selwa Alsomairy, Doug Biske, Sam Keim
+Summer I 2022
+Veterinary Services (name TBD)
+
+--- Workflow of User ---
+Search for owner (Name or Phone number)
+Display list of matching owners
+Select owner
+Display list of pets associated with owner
+Select pet
+Actions Menu
+- Schedule appointment (Create appt tuple with date of appt)
+- Enter appointment log (Quick entry with service code or code lookup)
+- View reminders (ie. Vaccination reminders)
+- View past appointment
+
+
+--- Stretch Goals ---
+Employee login (inc. types of employees and restricted access based on type)
+Owner login
+Pet pictures
+CRUD
+- Update owner or pet information
+- Create new owner / pet
+- Delete owner / pet (Mark "Active" / "Not active"?)
+
+--- Technologies Used ---
